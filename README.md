@@ -9,4 +9,3 @@ Here's your KZN-Guard README! 🛡️ It includes:
 - **Multilingual support** callout (English, isiZulu, isiXhosa)
 - A strong **community call-to-action** button at the bottom
 
-To use it, add this as `README.md` in your KZN-Guard GitHub repository and it will render beautifully on the repo homepage.
